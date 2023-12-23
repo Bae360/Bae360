@@ -5,6 +5,7 @@
 Welcome to Bae360°, your trusted partner in the world of digital services and NetSuite solutions. Based in Chalon sur Saône, France, we've been pioneering in providing cutting-edge IT and ERP solutions since 2019.
 
 What We Offer:
+
 🌟 NetSuite Solutions: As an accredited NetSuite Solution Provider, we specialize in custom NetSuite ERP implementations, tailored to streamline and optimize your business processes.
 
 💡 IT Consulting: Our expert consultants offer insights and solutions for all your IT needs, ensuring your business stays ahead in the digital curve.
